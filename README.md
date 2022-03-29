@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjlfortunato" alt="cjlfortunato" /></a> </p>
 
-- 🔭 I’m currently working on **perfecting my PHP skills.**
+- 🔭 I’m currently working on **perfecting my Back-end skills.**
 
 - 👨‍💻 All of my projects are available at [www.cjlfortunato.work](www.cjlfortunato.work)
 
